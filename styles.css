@@ -138,4 +138,9 @@ position: fixed;
   .nb{
     float: right;
   }
+.aa {
+    width: 300px;
+    border-radius: 30px;
+    height: 300px;
+  }
   
