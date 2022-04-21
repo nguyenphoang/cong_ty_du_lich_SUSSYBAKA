@@ -25,3 +25,12 @@ function myFunction() {
         }
       })
 }
+function myFunffction() {
+  Swal.fire({
+    icon: 'error',
+    
+    title: 'Xin lỗi',
+    html: '<span style="color:black;text-align: center;">Website đang trong quá trình xây dựng content mới, mong quý vị thông cảm</span>',
+    
+  })
+}
